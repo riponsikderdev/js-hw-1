@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .light {
+    margin: 50px;
+}
+
+.container .btn {
+    margin: 50px;
+}
+
+.container .range {
+    margin: 50px;
+}
+
+.container .quantity {
+    margin: 50px;
+}
+
+.container .psk {
+    margin: 50px;
+}
