@@ -30,6 +30,9 @@
 .container .quantity {
     margin: 50px;
 }
+.container .quantity .input {
+    text-align: center;
+}
 
 .container .psk {
     margin: 50px;
