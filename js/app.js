@@ -55,7 +55,7 @@ function eyeandpskfun() {
         btn.innerHTML = '<i class="bi bi-eye-slash-fill"></i>'
     } else {
         password.type = 'password';
-        btn.innerHTML == '<i class="bi bi-eye-fill"></i>'
+        btn.innerHTML = '<i class="bi bi-eye-fill"></i>'
 
     }
 }
