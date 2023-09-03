@@ -42,8 +42,9 @@ function decrementValue() {
     } else {
         output.value = Number(output.value) - 1;
     }
+    }
     decrementBtn.addEventListener("click", decrementValue)
-}
+
 // QUANTITY ENDS HERE
 // PASSWORD STARTS HERE
 let btn = document.querySelector('.passwordToggler')
